@@ -7,3 +7,5 @@
 各页面独立HTML，CSS内嵌；图片位于images目录。包含canonical、JSON-LD、robots.txt和sitemap.xml。序号为编辑整理顺序，不是实测评分。
 
 统计使用Umami现有项目；仅记录访问和固定链接事件，不收集站内搜索文本。
+
+品牌排序：中文展示名称优先、英文随后，组内保持既有顺序。新增品牌默认遵循同一规则，详见 SORTING.md。
