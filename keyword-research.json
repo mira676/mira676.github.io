@@ -3,6 +3,924 @@
   "raw_suggestions": 259,
   "keywords": [
     {
+      "keyword": "快喵加速器下载来源与产品身份怎么核对",
+      "slug": "kuaimiao",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.kuaizhou.jiasuqi"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 269,
+      "path": "news-kuaimiao-bdfa100740.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-kuaimiao-bdfa100740.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "快喵加速器订阅费用与自动续费如何确认",
+      "slug": "kuaimiao",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.kuaizhou.jiasuqi"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 270,
+      "path": "news-kuaimiao-7026b8bd1d.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-kuaimiao-7026b8bd1d.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "快喵加速器连接异常与节点选择排查指南",
+      "slug": "kuaimiao",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.kuaizhou.jiasuqi"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 271,
+      "path": "news-kuaimiao-1875d92ecd.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-kuaimiao-1875d92ecd.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "云翼加速器下载来源与产品身份怎么核对",
+      "slug": "yunyi",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6777183933"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 272,
+      "path": "news-yunyi-d3106268c6.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-yunyi-d3106268c6.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "云翼加速器订阅费用与自动续费如何确认",
+      "slug": "yunyi",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6777183933"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 273,
+      "path": "news-yunyi-9e85266113.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-yunyi-9e85266113.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "云翼加速器连接异常与节点选择排查指南",
+      "slug": "yunyi",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6777183933"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 274,
+      "path": "news-yunyi-41ca5458fb.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-yunyi-41ca5458fb.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "速豹加速器下载来源与产品身份怎么核对",
+      "slug": "subao",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6474973544"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 275,
+      "path": "news-subao-cd0227ebcf.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-subao-cd0227ebcf.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "速豹加速器订阅费用与自动续费如何确认",
+      "slug": "subao",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6474973544"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 276,
+      "path": "news-subao-a4135a663f.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-subao-a4135a663f.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "速豹加速器连接异常与节点选择排查指南",
+      "slug": "subao",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6474973544"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 277,
+      "path": "news-subao-3f457f5f52.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-subao-3f457f5f52.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "虎跃加速器下载来源与产品身份怎么核对",
+      "slug": "huyue",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh&id=com.didi.dada"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 278,
+      "path": "news-huyue-19d81d3de0.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-huyue-19d81d3de0.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "虎跃加速器订阅费用与自动续费如何确认",
+      "slug": "huyue",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh&id=com.didi.dada"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 279,
+      "path": "news-huyue-fd3c00beb8.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-huyue-fd3c00beb8.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "虎跃加速器连接异常与节点选择排查指南",
+      "slug": "huyue",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh&id=com.didi.dada"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 280,
+      "path": "news-huyue-b97cbcb5b4.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-huyue-b97cbcb5b4.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "雷霆加速器下载来源与产品身份怎么核对",
+      "slug": "leiting",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/cn/app/id1625445710"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 281,
+      "path": "news-leiting-e9b8abdc50.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-leiting-e9b8abdc50.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "雷霆加速器订阅费用与自动续费如何确认",
+      "slug": "leiting",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/cn/app/id1625445710"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 282,
+      "path": "news-leiting-f0d6618d3d.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-leiting-f0d6618d3d.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "雷霆加速器连接异常与节点选择排查指南",
+      "slug": "leiting",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/cn/app/id1625445710"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 283,
+      "path": "news-leiting-7d04696a11.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-leiting-7d04696a11.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "云梭加速器下载来源与产品身份怎么核对",
+      "slug": "yunsuo",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6797490416"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 284,
+      "path": "news-yunsuo-0eeb460f63.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-yunsuo-0eeb460f63.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "云梭加速器订阅费用与自动续费如何确认",
+      "slug": "yunsuo",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6797490416"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 285,
+      "path": "news-yunsuo-6381ea18de.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-yunsuo-6381ea18de.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "云梭加速器连接异常与节点选择排查指南",
+      "slug": "yunsuo",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6797490416"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 286,
+      "path": "news-yunsuo-7686ed8074.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-yunsuo-7686ed8074.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "霆连加速器下载来源与产品身份怎么核对",
+      "slug": "tinglian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/cn/app/id6760660666"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 287,
+      "path": "news-tinglian-8c92d10b1d.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-tinglian-8c92d10b1d.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "霆连加速器订阅费用与自动续费如何确认",
+      "slug": "tinglian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/cn/app/id6760660666"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 288,
+      "path": "news-tinglian-fda6152acd.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-tinglian-fda6152acd.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "霆连加速器连接异常与节点选择排查指南",
+      "slug": "tinglian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/cn/app/id6760660666"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 289,
+      "path": "news-tinglian-72a934ce2b.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-tinglian-72a934ce2b.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "火种VPN下载来源与产品身份怎么核对",
+      "slug": "huozhong",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6747108508"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 290,
+      "path": "news-huozhong-443f3837f4.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-huozhong-443f3837f4.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "火种VPN订阅费用与自动续费如何确认",
+      "slug": "huozhong",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6747108508"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 291,
+      "path": "news-huozhong-5512c5fdc9.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-huozhong-5512c5fdc9.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "火种VPN连接异常与节点选择排查指南",
+      "slug": "huozhong",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6747108508"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 292,
+      "path": "news-huozhong-066c8a038a.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-huozhong-066c8a038a.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "即连VPN下载来源与产品身份怎么核对",
+      "slug": "jilian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6775684390"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 293,
+      "path": "news-jilian-d9adf38ff2.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-jilian-d9adf38ff2.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "即连VPN订阅费用与自动续费如何确认",
+      "slug": "jilian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6775684390"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 294,
+      "path": "news-jilian-65d9bfef74.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-jilian-65d9bfef74.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "即连VPN连接异常与节点选择排查指南",
+      "slug": "jilian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6775684390"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 295,
+      "path": "news-jilian-0a62b94a79.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-jilian-0a62b94a79.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "绝尘加速器下载来源与产品身份怎么核对",
+      "slug": "juechen",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6670307607"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 296,
+      "path": "news-juechen-92ec48466e.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-juechen-92ec48466e.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "绝尘加速器订阅费用与自动续费如何确认",
+      "slug": "juechen",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6670307607"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 297,
+      "path": "news-juechen-d1ba165cf9.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-juechen-d1ba165cf9.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "绝尘加速器连接异常与节点选择排查指南",
+      "slug": "juechen",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6670307607"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 298,
+      "path": "news-juechen-3d12fd392c.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-juechen-3d12fd392c.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "星链加速器下载来源与产品身份怎么核对",
+      "slug": "xinglian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6743142751"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 299,
+      "path": "news-xinglian-903e6c59f4.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xinglian-903e6c59f4.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "星链加速器订阅费用与自动续费如何确认",
+      "slug": "xinglian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6743142751"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 300,
+      "path": "news-xinglian-0ae013fef5.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xinglian-0ae013fef5.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "星链加速器连接异常与节点选择排查指南",
+      "slug": "xinglian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/us/app/id6743142751"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 301,
+      "path": "news-xinglian-1394b4a2a0.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xinglian-1394b4a2a0.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "坚果VPN下载来源与产品身份怎么核对",
+      "slug": "jianguo",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6474020113"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 302,
+      "path": "news-jianguo-deb6671e60.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-jianguo-deb6671e60.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "坚果VPN订阅费用与自动续费如何确认",
+      "slug": "jianguo",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6474020113"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 303,
+      "path": "news-jianguo-11597710d7.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-jianguo-11597710d7.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "坚果VPN连接异常与节点选择排查指南",
+      "slug": "jianguo",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6474020113"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 304,
+      "path": "news-jianguo-b470fa71c7.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-jianguo-b470fa71c7.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "小牛加速器下载来源与产品身份怎么核对",
+      "slug": "xiaoniu",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.craftvpn.craft"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 305,
+      "path": "news-xiaoniu-13e92a81c7.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xiaoniu-13e92a81c7.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "小牛加速器订阅费用与自动续费如何确认",
+      "slug": "xiaoniu",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.craftvpn.craft"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 306,
+      "path": "news-xiaoniu-30fe3e6195.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xiaoniu-30fe3e6195.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "小牛加速器连接异常与节点选择排查指南",
+      "slug": "xiaoniu",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh_TW&id=com.craftvpn.craft"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 307,
+      "path": "news-xiaoniu-8fd2104233.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xiaoniu-8fd2104233.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "迅连VPN下载来源与产品身份怎么核对",
+      "slug": "xunlian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/hk/app/id6756306032"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 308,
+      "path": "news-xunlian-b964a2b0d1.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xunlian-b964a2b0d1.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "迅连VPN订阅费用与自动续费如何确认",
+      "slug": "xunlian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/hk/app/id6756306032"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 309,
+      "path": "news-xunlian-3cf40f9ca2.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xunlian-3cf40f9ca2.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "迅连VPN连接异常与节点选择排查指南",
+      "slug": "xunlian",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/hk/app/id6756306032"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 310,
+      "path": "news-xunlian-92eabefc6b.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-xunlian-92eabefc6b.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "灵犀VPN下载来源与产品身份怎么核对",
+      "slug": "lingxi",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6743195665"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 311,
+      "path": "news-lingxi-ed21d860d9.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-lingxi-ed21d860d9.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "灵犀VPN订阅费用与自动续费如何确认",
+      "slug": "lingxi",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6743195665"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 312,
+      "path": "news-lingxi-9f136dc064.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-lingxi-9f136dc064.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "灵犀VPN连接异常与节点选择排查指南",
+      "slug": "lingxi",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://apps.apple.com/tw/app/id6743195665"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 313,
+      "path": "news-lingxi-f562d73985.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-lingxi-f562d73985.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "番茄加速器下载来源与产品身份怎么核对",
+      "slug": "fanqie",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://www.tomatoaccelerator.com/"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 314,
+      "path": "news-fanqie-472cc6afa2.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-fanqie-472cc6afa2.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "番茄加速器订阅费用与自动续费如何确认",
+      "slug": "fanqie",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://www.tomatoaccelerator.com/"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 315,
+      "path": "news-fanqie-74af857596.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-fanqie-74af857596.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "番茄加速器连接异常与节点选择排查指南",
+      "slug": "fanqie",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://www.tomatoaccelerator.com/"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 316,
+      "path": "news-fanqie-d56c64f6d4.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-fanqie-d56c64f6d4.html",
+      "intent": "connection"
+    },
+    {
+      "keyword": "狗急加速器下载来源与产品身份怎么核对",
+      "slug": "gouji",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh-CN&id=cloud.centaur.gojgp"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 317,
+      "path": "news-gouji-b68d9b9ac8.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-gouji-b68d9b9ac8.html",
+      "intent": "official"
+    },
+    {
+      "keyword": "狗急加速器订阅费用与自动续费如何确认",
+      "slug": "gouji",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh-CN&id=cloud.centaur.gojgp"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 318,
+      "path": "news-gouji-b21636808e.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-gouji-b21636808e.html",
+      "intent": "price"
+    },
+    {
+      "keyword": "狗急加速器连接异常与节点选择排查指南",
+      "slug": "gouji",
+      "sources": [
+        {
+          "type": "editorial_long_tail",
+          "date": "2026-10-28",
+          "url": "https://play.google.com/store/apps/details?hl=zh-CN&id=cloud.centaur.gojgp"
+        }
+      ],
+      "source_type": "editorial_long_tail",
+      "id": 319,
+      "path": "news-gouji-4914855bf3.html",
+      "batch": "brands-20261028",
+      "date": "2026-10-28",
+      "canonical_path": "news-gouji-4914855bf3.html",
+      "intent": "connection"
+    },
+    {
       "keyword": "蓝灯vpn",
       "slug": "lantern",
       "sources": [
@@ -5197,5 +6115,13 @@
       "stash",
       "loon"
     ]
-  }
+  },
+  "updates": [
+    {
+      "date": "2026-10-28",
+      "brands": 17,
+      "articles": 51,
+      "source": "Editorial topics with public product references"
+    }
+  ]
 }
